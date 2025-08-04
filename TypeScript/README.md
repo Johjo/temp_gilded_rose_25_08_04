@@ -1,5 +1,7 @@
 # Gilded Rose
 
+With les Anes
+
 This is the Gilded Rose kata in TypeScript.
 
 ## Getting started
