@@ -19,9 +19,15 @@ describe('Gilded Rose Approval', () => {
     expect(items).toMatchSnapshot();
   });
 
+
+  it('xxx', () => {
+    expect("coucou fgdsjklgfdjklgjfdklgjfdk").toMatchSnapshot();
+  });
+
+
   it('should thirtyDays', () => {
     const consoleOutput = execSync(
-      'ts-node test/golden-master-text-test.ts 30',
+      'ts-node test/golden-master-text-test.ts 1',
       { encoding: 'utf-8' }
     );
 
