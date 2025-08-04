@@ -1,6 +1,6 @@
 # Gilded Rose
 
-With les Anes : Yann
+With les Anes : Yann & Johann
 
 This is the Gilded Rose kata in TypeScript.
 
