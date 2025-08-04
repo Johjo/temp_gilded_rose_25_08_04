@@ -55,5 +55,3 @@ There are instructions in the [TextTest Readme](../texttests/README.md) for sett
 
     executable:${TEXTTEST_HOME}/python/texttest_fixture.py
     interpreter:python
-
-
